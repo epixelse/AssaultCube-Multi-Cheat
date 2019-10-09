@@ -1,4 +1,4 @@
-# AssaultClube Cheat: 
+# AssaultCube Cheat: 
 * Rapid Fire 
 * No Recoil 
 * Unlimited Ammo. 
